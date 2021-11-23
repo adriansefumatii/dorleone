@@ -1,0 +1,26 @@
+{
+  "name": "ok",
+  "version": "1.0.0",
+  "description": "A nuke bot that will help you to revamp your old servers.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Nuke",
+    "Discord",
+    "Bot"
+  ],
+  "author": "BruceMacGary",
+  "license": "MIT ",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "config.json": "0.0.4",
+    "discord-buttons": "^4.0.0",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "index.js": "0.0.3",
+    "mogoose": "0.0.1-security",
+    "quick.db": "^7.1.3"
+  }
+}
